@@ -7,5 +7,5 @@
 </a>    
 <a href="https://github.com/PhuocVD125/SpringBoot_Restful_Demo">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhuocVD125&repo=SpringBoot_Restful_Demo&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=PhuocVD125&repo=SpringBoot_Restful_Demo&theme=gruvbox" />
 </a>  
